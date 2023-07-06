@@ -4,5 +4,5 @@ The notebook contains the implementation of a neural transition-based parser for
 - BERT
 
 The performances of the two models on the test set are the following, using UAS (Unlabeled Attachment Score) as evaluation metric:
-- Bi-LSTM based model: UAS = 0.704;
+- BiLSTM based model: UAS = 0.704;
 - BERT based model: UAS = 0.857.
